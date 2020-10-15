@@ -123,6 +123,10 @@
           }
         }
       }
-    }},
-  "defaultProject": "rickandersonio-frontend"
+    }
+  },
+  "defaultProject": "rickandersonio-frontend",
+  "cli": {
+    "analytics": "9914444b-114c-4c5b-8735-e159cc19a6b4"
+  }
 }
